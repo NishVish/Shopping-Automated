@@ -18,8 +18,16 @@ Modules and Package
    import webbrowser
    
    import tkinter as tk
+   
 
-![UI]{https://github.com/NishVish/Shopping-Automated/blob/main/image%201.png}
+![UI](https://github.com/NishVish/Shopping-Automated/blob/main/image%201.png)
+
+![UI]([https://github.com/NishVish/Shopping-Automated/blob/main/image%201.png](https://github.com/NishVish/Shopping-Automated/blob/main/image%204.png))
+
+![UI](https://github.com/NishVish/Shopping-Automated/blob/main/image%201.png)
+
+![UI](https://github.com/NishVish/Shopping-Automated/blob/main/image%201.png)
+
 
 
 
