@@ -8,17 +8,17 @@ Main Features
 
 Modules and Package
 
-pip install selenium
-
-pip install xlml
-
-pip install pandas
-
-import webbrowser
-
-from tkinter import *
-
-import tkinter as tk
+   pip install selenium
+   
+   pip install xlml
+   
+   pip install pandas
+   
+   import webbrowser
+   
+   from tkinter import *
+   
+   import tkinter as tk
 
 
 
