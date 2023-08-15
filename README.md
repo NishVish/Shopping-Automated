@@ -4,6 +4,7 @@ Using Selenium and Tkinter
 Main Features
 1. Perdefined list of Latest phone
 2. Search box for Any Product
+3. Automatically add searched product to cart
    
 
 Modules and Package
